@@ -1,0 +1,27 @@
+{"properties": [
+  {
+    "name": "file.upload-dir",
+    "type": "java.lang.String",
+    "description": "A description for 'file.upload-dir'"
+  },
+  {
+    "name": "bill.storage.path",
+    "type": "java.lang.String",
+    "description": "A description for 'bill.storage.path'"
+  },
+  {
+    "name": "identity.card.storage.path",
+    "type": "java.lang.String",
+    "description": "A description for 'identity.card.storage.path'"
+  },
+  {
+    "name": "stock.bill.storage.path",
+    "type": "java.lang.String",
+    "description": "A description for 'stock.bill.storage.path'"
+  },
+  {
+    "name": "invoice.storage.path",
+    "type": "java.lang.String",
+    "description": "A description for 'invoice.storage.path'"
+  }
+]}
