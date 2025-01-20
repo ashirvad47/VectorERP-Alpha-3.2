@@ -1,5 +1,8 @@
 # VectorERP-Alpha-3.2
 
+![image](https://github.com/user-attachments/assets/58024621-19c6-487e-98f2-bf27b114e51a)
+
+
 A cloud-based Enterprise Resource Planning (ERP) solution for India's MSME sector.
 
 ## Modules and Features
