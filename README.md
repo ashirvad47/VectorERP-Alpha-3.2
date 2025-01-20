@@ -30,3 +30,14 @@ The ERP consists of the following modules and features:
 • Team management, task allocation, resource allocation
 • Deadline tracking and milestone management
 • Project timeline visualization
+
+
+
+Additional files are yet to be uploaded.
+
+Files left to be uploaded after approval: -frontend, -aws demo video, -whole application demo video on local machine
+
+
+Tech Stack: Frontend-> React js
+            Backend -> Java + SpringBoot
+            Database-> PostgreSQL
